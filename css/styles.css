@@ -1,0 +1,20 @@
+.container {
+    background-color: lightgrey;
+    padding: 1em;
+    text-align: center;
+}
+
+@media (min-width: 576px) {
+    .container {
+        width: 576px;
+    }
+}
+
+.btn {
+    margin-top: 1em;
+}
+
+#numbers {
+    background-color: darkslategray;
+    color: white;
+}
